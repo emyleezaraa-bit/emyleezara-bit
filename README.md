@@ -22,7 +22,7 @@ Science stream
 - SPM : 9A
 
 ## Skills
-- **Language**
+**Language**
 - English : Advanced
 - Malay : Advanced
 - Korean : Basic
