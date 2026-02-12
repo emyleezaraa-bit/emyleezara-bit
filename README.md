@@ -9,7 +9,8 @@
 Bachelor of Computer Science (Data Engineering)
 
 - **KOLEJ MARA KUALA NERANG (KMKN) :**
-Foundation in Engineering and Technology  
+Foundation in Engineering and Technology
+
 Academic Achievements:
 1. CGPA: 4.00
 2. MUET : BAND 4.5
