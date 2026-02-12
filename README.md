@@ -28,9 +28,10 @@ Science stream
 - Korean : Basic
 
 **Technical Skills**
-- Adobe Premier Pro
 - Basic C++
 - Basic HTML
+- Adobe Premier Pro
+
 
   **Goals**
   
