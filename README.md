@@ -27,10 +27,13 @@ Science stream
 - Malay : Advanced
 - Korean : Basic
 
-- **Technical Skills**
+**Technical Skills**
 - Adobe Premier Pro
 - Basic C++
 - Basic HTML
+
+  **Goals**
+  
 
    
 
