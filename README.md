@@ -14,13 +14,13 @@ Bachelor of Computer Science (Data Engineering)
 Foundation in Engineering and Technology
 
 Academic Achievements:
-1. CGPA: 4.00
-2. MUET : BAND 4.5
+- CGPA: 4.00
+- MUET : BAND 4.5
 
 - **SEKOLAH MENENGAH SAINS TUANKU AISHAH ROHANI (SGS) :**
 Science stream
 
 Academic Achievements:
-1. SPM : 9A
+- SPM : 9A
    
 
