@@ -16,11 +16,21 @@ Foundation in Engineering and Technology
 - **SEKOLAH MENENGAH SAINS TUANKU AISHAH ROHANI (SGS) :**
 Science stream
 
-## Academic Achievements:
+## Academic Achievements
 - CGPA : 4.00
 - MUET : BAND 4.5
 - SPM : 9A
 
+## Skills
+- **Language**
+- English : Advanced
+- Malay : Advanced
+- Korean : Basic
+
+- **Technical Skills**
+- Adobe Premier Pro
+- Basic C++
+- Basic HTML
 
    
 
