@@ -5,7 +5,7 @@
 </div>
 
 ## About me 
-
+I'm currently a First-Year Data Engineering student at UTM. I am passionate in learning and innovating in the coding world to create impactful, data-driven solutions. 
 ## Education 
 - **UNIVERSITI TEKNOLOGI MALAYSIA (UTM) :**
 Bachelor of Computer Science (Data Engineering)
@@ -33,7 +33,6 @@ Science stream
 - Adobe Premier Pro
 
 
-  **Goals**
   
 
    
